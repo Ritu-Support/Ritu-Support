@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🤝 Ritu Support（律サポート）
 
-<!--
-**Ritu-Support/Ritu-Support** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+福祉カウンセラー × ITコンサルタントとして、神奈川県相模原市を拠点に活動しています。
 
-Here are some ideas to get you started:
+## 🌐 Official Website
+- **障害者支援・生活情報ポータル「Ritu Support」**
+- [https://ritusupport.com/](https://ritusupport.com/) [cite: 2026-03-08]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Focus
+- **福祉DX推進**: 障害者支援情報のデジタル化とアクセシビリティ向上
+- **Web制作**: Python / HTML / Canvas を活用した実用的なツール開発
+- **マーケティング**: ウェブ解析士の知見を活かしたSEO戦略
+
+## 📫 Links
+- [Qiita](https://qiita.com/Ritu-Support) [cite: 2026-03-05]
+- [Zenn](https://zenn.dev/ritusupport) [cite: 2026-03-05]
+- [Speaker Deck](https://speakerdeck.com/ritusupport)
