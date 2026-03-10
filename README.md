@@ -14,4 +14,3 @@
 ## 📫 Links
 - [Qiita](https://qiita.com/Ritu-Support) [cite: 2026-03-05]
 - [Zenn](https://zenn.dev/ritusupport) [cite: 2026-03-05]
-- [Speaker Deck](https://speakerdeck.com/ritusupport)
